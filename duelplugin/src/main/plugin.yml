@@ -1,0 +1,4 @@
+name: DuelPlugin
+version: 1.0
+main: me.zefused.duel.Main
+api-version: 1.20
